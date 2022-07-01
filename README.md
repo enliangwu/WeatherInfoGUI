@@ -1,15 +1,23 @@
 # WeatherInfoGUI
 ## This is a GUI application that shows the weather details of a city using python OpenWeather API. 
 Author: Enliang Wu<br />
-reference: evanemran
+Ref: evanemran
 
 Before running the application, please install the required packages.
+
 ### API info
 OpenWeather API url: https://openweathermap.org/api <br />
 Current Weather Data
 
 ## Sample output
-![](image/Diagram1.png)
+
+Ask the user to enter the city name
+![](Screen Shot 2022-06-29 at 9.57.25 PM.png)
+
+
+Showing the weather information of the city
+![](Screen Shot 2022-06-29 at 9.57.48 PM.png)
+
 
 
 
