@@ -12,19 +12,11 @@ Current Weather Data
 ## Sample output
 
 Ask the user to enter the city name
-![](image/input.png)
-
-
-Showing the weather information of the city
-
-
-
 <img src=image/output.png width="400" height="400">
 
 
-
-
-<a href="url"><img src="image/output.png" align="left" height="400" width="400" ></a>
+Showing the weather information of the city
+<a href="url"><img src="image/input.png" align="left" height="400" width="400" ></a>
 
 
 
