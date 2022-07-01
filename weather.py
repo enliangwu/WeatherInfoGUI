@@ -36,7 +36,7 @@ def set_app():
         final_data = "\n" + "Min Temp: " + str(min_temp) + "°C" + "\n" + "Max Temp: " \
                      + str(max_temp) + "°C" + "\n" + "Pressure: " + str(pressure) + "\n" + "Humidity: " \
                      + str(humidity) + "\n" + "Wind Speed: " + str(wind) + "\n" \
-                     + "Sunrise: " + sunrise + " GMT" + "\n" + "Sunset: " + sunset + " GMT"
+                     + "Sunrise: " + sunrise + "EST" + "\n" + "Sunset: " + sunset + "EST"
         label1.config(text=final_info)
         label2.config(text=final_data)
 
