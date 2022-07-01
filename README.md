@@ -12,11 +12,11 @@ Current Weather Data
 ## Sample output
 
 Ask the user to enter the city name
-![](image/input.png)
+![](image/input.png =250x250)
 
 
 Showing the weather information of the city
-![](image/output.png)
+![](image/output.png =250x250)
 
 
 
