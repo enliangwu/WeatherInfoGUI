@@ -5,10 +5,11 @@ reference: evanemran
 
 Before running the application, please install the required packages.
 ### API info
-OpenWeather API url: https://openweathermap.org/api
+OpenWeather API url: https://openweathermap.org/api <br />
 Current Weather Data
 
 ## Sample output
+![](image/Diagram1.png)
 
 
 
