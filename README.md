@@ -24,7 +24,7 @@ Showing the weather information of the city
 
 
 
-<a href="url"><img src="image/output.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="image/output.png" align="left" height="400" width="400" ></a>
 
 
 
