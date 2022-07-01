@@ -12,11 +12,11 @@ Current Weather Data
 ## Sample output
 
 Ask the user to enter the city name
-![](Screen Shot 2022-06-29 at 9.57.25 PM.png)
+![](image/Screen Shot 2022-06-29 at 9.57.25 PM.png)
 
 
 Showing the weather information of the city
-![](Screen Shot 2022-06-29 at 9.57.48 PM.png)
+![](image/Screen Shot 2022-06-29 at 9.57.48 PM.png)
 
 
 
