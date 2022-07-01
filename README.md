@@ -16,7 +16,8 @@ Ask the user to enter the city name
 
 
 Showing the weather information of the city
-![](image/output.png width="400" height="400")
+![]<img src=image/output.png width="400" height="400">
+
 
 
 
