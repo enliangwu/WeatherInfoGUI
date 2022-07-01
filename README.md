@@ -14,13 +14,13 @@ Current Weather Data
 Ask the user to enter the city name
 
 
-<img src=image/output.png width="400" height="400">
+<img src=image/1.png width="400" height="400">
 
 
 Showing the weather information of the city
 
 
-<a href="url"><img src="image/input.png" align="left" height="400" width="400" ></a>
+<a href="url"><img src="image/2.png" align="left" height="400" width="400" ></a>
 
 
 
